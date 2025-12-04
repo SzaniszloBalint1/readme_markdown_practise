@@ -12,5 +12,4 @@ ___
 3- vagy több csillag is ugyanugy vonal
 ***
 
-viszont 1 csillag pont lesz belőle
-**
+
