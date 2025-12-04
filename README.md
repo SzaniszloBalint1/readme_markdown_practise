@@ -15,5 +15,13 @@ lehet ha kell akkor, - - - al is csinalni
 3- vagy több csillag is ugyanugy vonal
 ***
 
-szimbolumokat is lehet hasznalni 
-(C) stb
+szöveg típusok
+
+**bold**
+
+__ez is bold__
+
+*italic*
+_ez is italic_
+
+~~áthúzott~~
