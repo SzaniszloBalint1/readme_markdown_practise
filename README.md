@@ -13,4 +13,4 @@ ___
 ***
 
 viszont 1 csillag pont lesz belőle
-*
+**
