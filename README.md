@@ -17,11 +17,11 @@ lehet ha kell akkor, - - - al is csinalni
 
 szöveg típusok
 
-**bold**
+**bold**   --> ** **
 
-__ez is bold__
+__ez is bold__   --> __   __
 
-*italic*
-_ez is italic_
+*italic*    --> *  *
+_ez is italic_   --> _  _
 
-~~áthúzott~~
+~~áthúzott~~   --> ~~    ~~
