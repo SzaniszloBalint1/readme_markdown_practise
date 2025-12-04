@@ -16,4 +16,4 @@ lehet ha kell akkor, - - - al is csinalni
 ***
 
 szimbolumokat is lehet hasznalni 
-(R) stb
+(C) stb
